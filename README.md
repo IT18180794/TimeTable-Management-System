@@ -4,9 +4,9 @@ Desktop Application for automatically scheduling the timetable of universities.
 
 # Developers
 
-  - [Dilsha parami](https://github.com/dilza123)
+  - [Dilsha parami](https://github.com/IT18180794)
   - [Shakila Pumantha](https://github.com/shakila840/shakila840/pulls)
-  - [](https://github.com/)
+  - [Kavini Gamage](https://github.com/IT18184990)
   
 # Technologies
   * C#
